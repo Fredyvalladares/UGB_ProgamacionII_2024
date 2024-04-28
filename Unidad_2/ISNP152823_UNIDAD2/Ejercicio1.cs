@@ -15,7 +15,6 @@ namespace ISNP152823_UNIDAD_2 {
             InitializeComponent();
         }
 
-
         private void Ejercicio1_Load(object sender, EventArgs e) {
             rdbLibraskilo.Checked = true;
         }

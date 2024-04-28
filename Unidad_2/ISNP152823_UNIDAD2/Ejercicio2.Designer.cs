@@ -136,9 +136,8 @@
             lblRespuesta.Font = new Font("Segoe UI Semibold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
             lblRespuesta.Location = new Point(314, 111);
             lblRespuesta.Name = "lblRespuesta";
-            lblRespuesta.Size = new Size(24, 25);
+            lblRespuesta.Size = new Size(0, 25);
             lblRespuesta.TabIndex = 20;
-            lblRespuesta.Text = "R";
             // 
             // lblA
             // 

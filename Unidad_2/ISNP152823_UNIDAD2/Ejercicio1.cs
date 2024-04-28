@@ -39,11 +39,11 @@ namespace ISNP152823_UNIDAD_2 {
             if (double.TryParse(txtPeso.Text, out double Peso)) {
 
                 double kilogramos = Peso * 0.45359237;
-                lblRespuesta.Text = kilogramos.ToString() + " Kilogramos";
+                lblRespuesta.Text = Math.Round(kilogramos, 4) + " Kilogramos";
 
                 if (rdbKilolibras.Checked) {
                     double Libras = Peso * 2.20462262;
-                    lblRespuesta.Text = Libras.ToString() + " Libras";
+                    lblRespuesta.Text = Math.Round(Libras, 4) + " Libras";
 
 
                 }

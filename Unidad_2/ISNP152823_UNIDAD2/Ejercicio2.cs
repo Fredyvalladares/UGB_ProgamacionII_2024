@@ -47,19 +47,22 @@ namespace ISNP152823_UNIDAD_2 {
 
                 if (rdbMetrosyardas.Checked) {
                     double yardas = Longitud / 0.9144;
-                    lblRespuesta.Text = yardas.ToString() + " Yardas";
+                    Math.Round(yardas, 2);
+                    lblRespuesta.Text = Math.Round(yardas,4) + " Yardas";
+                    
                 }
                 if (rdbYardasmetros.Checked) {
                     double metros = Longitud / 1.09361;
-                    lblRespuesta.Text = metros.ToString() + " Metros";
+                    lblRespuesta.Text = Math.Round(metros,4)+ " Metros";
                 }
                 if (rdbCentimetrosmilimetros.Checked) {
                     double milimetros = Longitud * 10;
-                    lblRespuesta.Text = milimetros.ToString() + " Milimetros";
+                    lblRespuesta.Text = Math.Round(milimetros, 4) + " Milimetros";
+                    
                 }
                 if (rdbMilimetroscentimetros.Checked) {
                     double centimetros = Longitud / 10;
-                    lblRespuesta.Text = centimetros.ToString() + " Centimetros";
+                   lblRespuesta.Text = Math.Round(centimetros, 4) + " Centimetros";
                 }
 
                 } else {

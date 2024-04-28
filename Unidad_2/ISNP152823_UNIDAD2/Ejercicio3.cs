@@ -36,8 +36,10 @@ namespace ISNP152823_UNIDAD_2 {
                     num1 = Convert.ToDouble(txtNum1.Text);
                     respuesta = Math.Sqrt(num1);
 
-                                    }
-                lblResult.Text ="" + respuesta;
+                 }
+
+                lblResult.Text = Math.Round(respuesta, 4).ToString();
+                               
             } catch (Exception) {
                 MessageBox.Show("Error, Ingrese Datos Validos", "Calculadora", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -51,7 +53,9 @@ namespace ISNP152823_UNIDAD_2 {
             txtNum2.Visible = true;
             lblNum2.Visible = true;
             lblRaiz.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Clear();
+            txtNum1.Clear();
             lbloperador.Text = ("+");
             btnResultado.Text = ("Sumar");
         }
@@ -60,7 +64,9 @@ namespace ISNP152823_UNIDAD_2 {
             txtNum2.Visible = true;
             lblNum2.Visible = true;
             lblRaiz.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Clear();
+            txtNum1.Clear();
             lbloperador.Text = ("-");
             btnResultado.Text = ("Restar");
         }
@@ -69,7 +75,9 @@ namespace ISNP152823_UNIDAD_2 {
             txtNum2.Visible = true;
             lblNum2.Visible = true;
             lblRaiz.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Clear();
+            txtNum1.Clear();
             lbloperador.Text = ("*");
             btnResultado.Text = ("Multiplicar");
         }
@@ -78,7 +86,9 @@ namespace ISNP152823_UNIDAD_2 {
             txtNum2.Visible = true;
             lblNum2.Visible = true;
             lblRaiz.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Clear();
+            txtNum1.Clear();
             lbloperador.Text = ("/");
             btnResultado.Text = ("Dividir");
         }
@@ -87,7 +97,9 @@ namespace ISNP152823_UNIDAD_2 {
             txtNum2.Visible = true;
             lblNum2.Visible = true;
             lblRaiz.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Clear();
+            txtNum1.Clear();
             lbloperador.Text = ("^");
             btnResultado.Text = ("Potencia");
         }
@@ -95,8 +107,10 @@ namespace ISNP152823_UNIDAD_2 {
         private void rdbRaiz_CheckedChanged(object sender, EventArgs e) {
             lblRaiz.Text = ("Calcular la Raiz Cuadrada");
             lbloperador.Text = string.Empty;
+            lblResult.Text = string.Empty;
             txtNum2.Visible = false;
             lblNum2.Visible = false;
+            txtNum1.Clear();
             txtNum2.Text = "0";
             btnResultado.Text = ("Calcular Raiz");
          }

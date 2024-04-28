@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|c:\\users\\fvalladares\\source\\repos\\fredyvalladares\\ugb_progamacionii_2024\\unidad_2\\isnp152823_unidad2\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|c:\\users\\fvalladares\\source\\repos\\fredyvalladares\\ugb_progamacionii_2024\\unidad_2\\isnp152823_unidad2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|c:\\users\\fvalladares\\source\\repos\\fredyvalladares\\ugb_progamacionii_2024\\unidad_2\\isnp152823_unidad2\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|c:\\users\\fvalladares\\source\\repos\\fredyvalladares\\ugb_progamacionii_2024\\unidad_2\\isnp152823_unidad2\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|c:\\users\\fvalladares\\source\\repos\\fredyvalladares\\ugb_progamacionii_2024\\unidad_2\\isnp152823_unidad2\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B0519B4-F0AF-4B5A-813A-D647721A0EC3}|ISNP152823_UNIDAD_2.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +51,69 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio3.cs",
+              "RelativeToolTip": "Ejercicio3.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAWwHYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:02:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:02:52.401Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio1.cs",
+              "RelativeToolTip": "Ejercicio1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAMwC0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:59:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:59:02.429Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Ejercicio2.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\source\\repos\\Fredyvalladares\\UGB_ProgamacionII_2024\\Unidad_2\\ISNP152823_UNIDAD2\\Ejercicio2.cs",
+              "RelativeToolTip": "Ejercicio2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T03:34:48.44Z",
+              "EditorCaption": ""
             }
           ]
         }

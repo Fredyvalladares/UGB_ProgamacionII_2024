@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\ejercicio7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:ejercicio7.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\ejercicio7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:ejercicio7.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\caratula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:caratula.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\ejercicio6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:ejercicio6.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\ejercicio6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:ejercicio6.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|c:\\users\\fvalladares\\desktop\\bck\\unidad_3\\aspnet\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4AE07209-8D2F-4E47-831B-F80441865861}|ASPNET.csproj|solutionrelative:content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio6.aspx",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio6.aspx",
+              "RelativeDocumentMoniker": "Ejercicio6.aspx",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio6.aspx",
+              "RelativeToolTip": "Ejercicio6.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T07:08:58.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caratula.aspx",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Caratula.aspx",
+              "RelativeDocumentMoniker": "Caratula.aspx",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Caratula.aspx",
+              "RelativeToolTip": "Caratula.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T07:51:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Content\\bootstrap.css",
+              "RelativeToolTip": "Content\\bootstrap.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T07:23:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ejercicio6.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio6.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio6.aspx.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio6.aspx.cs",
+              "RelativeToolTip": "Ejercicio6.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:15:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Content\\Site.css",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Content\\Site.css",
+              "RelativeToolTip": "Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T06:46:46.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio7.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio7.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio7.aspx.cs",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio7.aspx.cs",
+              "RelativeToolTip": "Ejercicio7.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:43:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio7.aspx",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio7.aspx",
+              "RelativeDocumentMoniker": "Ejercicio7.aspx",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Ejercicio7.aspx",
+              "RelativeToolTip": "Ejercicio7.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T06:32:58.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\Users\\Fvalladares\\Desktop\\BCK\\UNIDAD_3\\ASPNET\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T04:03:05.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,7 +9,9 @@ public class Unidad_4_ISNP152823_ISNP088623
 
         do
         {
-            Console.Write("Ingrese un Numero Positivo Para Sumar: ");
+            Console.WriteLine("*******************************************");
+            Console.WriteLine("** Ingrese numeros positivos para sumar: **");
+            Console.WriteLine("*******************************************");
             num = Convert.ToInt32(Console.ReadLine());
 
             if (num > 0)

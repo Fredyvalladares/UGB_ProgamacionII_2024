@@ -4,7 +4,9 @@ public class Unidad_4_ISNP152823_ISNP088623
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Digite su nombre: ");
+        Console.WriteLine("***************************");
+        Console.WriteLine("**** Digite su nombre: ****");
+        Console.WriteLine("***************************");
         string nombre = Console.ReadLine();
         if (nombre == "Fredy") 
         {
@@ -15,4 +17,5 @@ public class Unidad_4_ISNP152823_ISNP088623
         {
             Console.WriteLine("No te conozco {0}", nombre); 
     }
+}
 }

@@ -3,15 +3,16 @@ using System;
 public class Unidad_4_ISNP152823_ISNP088623
 {
     public static void Main(string[] args)
-    {
+    {       
         Console.WriteLine("*******************************************");
-        Console.WriteLine("*** Los Números impares entre 0 y 100: ****");
+        Console.WriteLine("* Ingrese la tabla que desea multiplicar: *");
         Console.WriteLine("*******************************************");
-        Console.WriteLine("Presiona Cualquier Tecla para Continuar");
-        Console.ReadKey();
-        for (int i = 1; i <= 100; i += 2) 
+        int ntabla = int.Parse(Console.ReadLine());
+       
+
+        for (int i = 1; i <= 10; i++)
         {
-            Console.WriteLine(i);
+            Console.WriteLine("{0} x {1} = {2}", ntabla, i, ntabla * i);
         }
     }
 }

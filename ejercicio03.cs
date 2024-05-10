@@ -15,7 +15,7 @@ public class Unidad_4_ISNP152823_ISNP088623
             Console.Write("Ingrese el nombre del operario {0}: ", i + 1);
             nombres[i] = Console.ReadLine();
 
-            Console.Write("Ingrese el sueldo del operario {0}: ", i + 1);
+            Console.Write("Ingrese el sueldo {0}: ", i + 1);
             sueldos[i] = Convert.ToDouble(Console.ReadLine());
 
             
@@ -28,6 +28,6 @@ public class Unidad_4_ISNP152823_ISNP088623
         
         Console.WriteLine();
         Console.WriteLine("El operario con el sueldo mayor es: {0}", nombreSueldoMayor);
-        Console.WriteLine("Su sueldo es: {0}", sueldoMayor);
+        Console.WriteLine("Su sueldo es $: {0}", sueldoMayor);
     }
 }

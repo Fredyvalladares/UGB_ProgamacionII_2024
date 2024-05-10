@@ -8,7 +8,7 @@ public class Unidad_4_ISNP152823_ISNP088623
         Console.WriteLine("**** Digite su nombre: ****");
         Console.WriteLine("***************************");
         string nombre = Console.ReadLine();
-        if (nombre == "Fredy") 
+        if (nombre == "David") 
         {
             Console.WriteLine("Usted está Autorizado");
             Console.WriteLine("Hola {0}", nombre);

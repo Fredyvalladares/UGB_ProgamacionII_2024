@@ -12,6 +12,7 @@ public class Unidad_4_ISNP152823_ISNP088623
         for (int i = 1; i <= 100; i += 2) 
         {
             Console.WriteLine(i);
+             Console.ReadKey();
         }
     }
 }

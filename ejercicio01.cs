@@ -16,6 +16,7 @@ public class Unidad_4_ISNP152823_ISNP088623
         else
         {
             Console.WriteLine("No te conozco {0}", nombre); 
+             Console.ReadKey();
     }
 }
 }

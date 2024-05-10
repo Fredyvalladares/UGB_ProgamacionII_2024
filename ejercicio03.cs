@@ -29,5 +29,6 @@ public class Unidad_4_ISNP152823_ISNP088623
         Console.WriteLine();
         Console.WriteLine("El operario con el sueldo mayor es: {0}", nombreSueldoMayor);
         Console.WriteLine("Su sueldo es $: {0}", sueldoMayor);
+         Console.ReadKey();
     }
 }

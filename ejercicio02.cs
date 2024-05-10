@@ -4,8 +4,8 @@ public class Unidad_4_ISNP152823_ISNP088623
 {
     public static void Main(string[] args)
     {
-        int suma = 0; // Declarar e inicializar suma
-        int num; // Declarar variable num
+        int suma = 0; 
+        int num; 
 
         do
         {

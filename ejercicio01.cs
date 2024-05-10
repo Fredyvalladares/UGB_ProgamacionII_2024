@@ -12,6 +12,8 @@ public class Unidad_4_ISNP152823_ISNP088623
         {
             Console.WriteLine("Usted está Autorizado");
             Console.WriteLine("Hola {0}", nombre);
+             Console.ReadKey();
+
         }
         else
         {
